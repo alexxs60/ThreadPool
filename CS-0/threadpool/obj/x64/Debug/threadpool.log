@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 中间目录(D:\CS-0\threadpool\obj\x64\Debug\)包含从另一个项目(threadpool.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  正在验证源
+  正在将源远程复制到“192.168.61.128”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  ThreadPool.cpp
+D:\CS-0\threadpool\ThreadPool.cpp(83,16): warning : deleting ‘void*’ is undefined [enabled by default]
+D:\CS-0\threadpool\ThreadPool.cpp(83,16): warning :     delete task.arg;
+D:\CS-0\threadpool\ThreadPool.cpp(83,16): warning :                 ^
+  正在链接对象
+  threadpool.vcxproj -> D:\CS-0\threadpool\bin\x64\Debug\CS-0.out
