@@ -1,0 +1,1 @@
+cd /home/mylinux/projects/CS-1/; g++ -o "/home/mylinux/projects/CS-1/bin/x64/Debug/CS-1.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack "/home/mylinux/projects/CS-1/obj/x64/Debug/Client.o"

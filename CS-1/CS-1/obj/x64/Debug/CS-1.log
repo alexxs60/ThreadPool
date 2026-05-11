@@ -1,0 +1,12 @@
+﻿  正在验证源
+  正在将源远程复制到“192.168.61.128”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  Client.cpp
+D:\CS-1\CS-1\Client.cpp(34,41): warning : conversion to ‘int’ from ‘ssize_t {aka long int}’ may alter its value [-Wconversion]
+D:\CS-1\CS-1\Client.cpp(34,41): warning :    int len = recv(fd, buf, sizeof(buf), 0);
+D:\CS-1\CS-1\Client.cpp(34,41): warning :                                          ^
+  正在链接对象
+  CS-1.vcxproj -> D:\CS-1\CS-1\bin\x64\Debug\CS-1.out
